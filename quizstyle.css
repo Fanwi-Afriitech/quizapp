@@ -1,0 +1,49 @@
+h1{
+    margin: 1em;
+    text-align: center;
+}
+#forQuestions{
+    margin:1em 20%;
+    background-color: #f0e2e2;
+    width: 60%;
+    height: 30em;
+    padding: 0.5em;
+    border: groove 2px salmon;
+}
+div div div{
+    border: 0.5px solid black;
+    margin: 2em;
+    padding: 1em;
+}
+button{
+    margin: 1em 4em;
+}
+.popforsubmit{
+    background-color: red;
+    height: 10em;
+    width: fit-content;
+    margin-top: -50%;
+    margin-left: 40%;
+   
+    position: relative;
+}
+div p{
+    margin-left: 2em;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#forControlButtons{
+    width: fit-content;
+    margin-left: 15%;
+}
+#forControlButtons div {
+display:  flex;
+border:  1px solid black;
+margin: 1em;
+padding: 1em;
+}
+#forControlButtons div label{
+    margin: 0 3em;
+    background-color: rgb(106, 106, 164);
+}
+
